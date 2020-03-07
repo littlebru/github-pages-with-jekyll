@@ -1,7 +1,12 @@
-<h1> Welcome to my blog <h1>
-
-<p>
-  Uau!, estou iniciando com o Github Pages e estou amando <3<br>
-  <b>Bem vinda(o) a minha página, que vai ficar maravilinda<b>
-  :sparkles:
-</p>
+<html>
+  <head>
+    <title>Meu titulo<\title>
+  </head>
+  <body>
+    <div>
+    <h1>titulo</h1>
+    <h2>Subtitulo?</h2>
+    <p>lorem ipsum dolor ipsn ckhaikfncioea kefijwesfl apoejf somfke plsof spoefns fe fjegi siejgierio psiehgoerg sidonfoerhgogreioj ejgeiorkghe bkseogjrug rdknroie lorenioegpior hpipiitute iuhvuihrei poejf poie fponee voiyghj</p>
+    </div>
+  </body>
+</html>
